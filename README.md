@@ -1,0 +1,1 @@
+# syn-gitservices-sonarqube-configuration-checker
